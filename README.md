@@ -9,4 +9,6 @@ HTTP Get for importing Workday positions into a table in SN
 - System Web Services > Outbound > REST Message (Workday HR Outbound)
 - Create new Flow "New Hire from Workday"
 
-TODO: Personalize > Security Rules on import set table (need security_admin role)?
+TODO: 
+- Create new Flow "New Hire from Workday"
+- Personalize > Security Rules on import set table (need security_admin role)?
